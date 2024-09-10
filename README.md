@@ -45,9 +45,12 @@ npm install
 npm run dev
 ```
 
-###Backend
+### Backend Setup
 
-
+#### Create a .env file in the Backend folder with the following variables:
+- PORT=your_preferred_port
+- USER=your_outlook_email
+- PASS=your_outlook_email_password
 
 ```bash
 cd Backend
