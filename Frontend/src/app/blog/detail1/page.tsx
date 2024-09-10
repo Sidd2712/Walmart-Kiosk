@@ -6,7 +6,6 @@ import { useSearchParams } from 'next/navigation';
 import TopNavOne from '@/components/Header/TopNav/TopNavOne'
 import MenuOne from '@/components/Header/Menu/MenuOne'
 import blogData from '@/data/Blog.json'
-import NewsInsight from '@/components/Home3/NewsInsight';
 import Footer from '@/app/Footer'
 import { useRouter } from 'next/navigation'
 

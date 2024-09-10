@@ -7,7 +7,6 @@ import { useRouter } from 'next/navigation'
 import TopNavOne from '@/components/Header/TopNav/TopNavOne'
 import MenuOne from '@/components/Header/Menu/MenuOne'
 import blogData from '@/data/Blog.json'
-import NewsInsight from '@/components/Home3/NewsInsight';
 import Footer from '@/app/Footer'
 import * as Icon from "@phosphor-icons/react/dist/ssr";
 import Rate from '@/components/Other/Rate';

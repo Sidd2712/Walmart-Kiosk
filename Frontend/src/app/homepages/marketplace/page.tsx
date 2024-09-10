@@ -15,7 +15,7 @@ import BestSeller from '@/components/Marketplace/BestSeller'
 import BannerBelow from '@/components/Marketplace/BannerBelow'
 import TopProduct from '@/components/Marketplace/TopProduct'
 import Recommend from '@/components/Marketplace/Recommend'
-import NewsInsight from '@/components/Home3/NewsInsight'
+import NewsInsight from ''
 
 export default function HomeMarketplace() {
     return (
