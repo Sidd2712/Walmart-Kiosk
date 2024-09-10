@@ -37,5 +37,21 @@ This project allows users to browse items, add them to a shopping or wishlist, a
 ```bash
 git clone https://github.com/Sidd2712/Walmart-Kiosk.git
 ```
+### Frontend Setup
 
+```bash
+cd Frontend
+npm install
+npm run dev
+```
+
+###Backend
+
+
+
+```bash
+cd Backend
+npm install
+nodemon app.js
+```
 
