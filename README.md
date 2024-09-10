@@ -35,5 +35,7 @@ This project allows users to browse items, add them to a shopping or wishlist, a
 ### Clone the Project
 
 ```bash
-git clone https://github.com/yourusername/kiosk-shopping-list-app.git
-cd kiosk-shopping-list-app
+git clone https://github.com/Sidd2712/Walmart-Kiosk.git
+```
+
+
